@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Villanelle Writer
+
+This is a simple app to help writing villanelles. I wrote it mostly an excuse to toy with react. This code in no way represents my normal work.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
